@@ -22,17 +22,18 @@ I'm currently working as a backend developer at [Chargemap](https://fr.chargemap
   </div>
   <div align="center">
     <picture>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2851/2851900-64.png?modified=3d4dbc75" width="50" height="50" alt="">
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2851/2851900-64.png?modified=3d4dbc75" width="50" height="50">
     </picture>
     <br>
     <p>
       <strong><a href="https://addons.mozilla.org/fr/firefox/addon/websites-hider/" target="_blank">Websites Hider</a></strong><br>
-      A Firefox plugin to hide specific websites from your search results.<br>
+      A Firefox addon to hide specific <br>websites from your search results.<br>
       <span style="color:grey"> (JavaScript)</span><br>
       <a href="https://github.com/llambrecht/hide_websites_plugin">➡ Go to repository</a>
     </p>
   </div>
 </div>
+
 
 
 ### 📫 How to reach me:
