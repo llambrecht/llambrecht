@@ -7,7 +7,7 @@ I'm currently working as a backend developer at [Chargemap 🚗⚡🔋](https://
 ### 💡 Current projects:
 <div align="center">
   <picture>
-    <img src="https://321vegan.fr/images/logo_no_text.png" width="50" height="50">
+    <img src="https://321vegan.fr/images/logo_no_text.png" width="50" height="50" alt="">
   </picture>
   <br>
   <p>
