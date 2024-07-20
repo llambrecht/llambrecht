@@ -2,7 +2,7 @@
 
 I'm a developer from France 🇫🇷. I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward to contributing more to open source projects 👯.
 
-I'm currently working as a backend developer at [Chargemap 🚗⚡🔋](https://fr.chargemap.com/) .
+I'm currently working as a backend developer at [Chargemap](https://fr.chargemap.com/) 🚗⚡🔋
 
 ### 💡 Current projects:
 <div align="center">
