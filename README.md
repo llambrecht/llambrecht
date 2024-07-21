@@ -37,7 +37,6 @@ I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward
 
 <samp>I'm currently working as *Backend Developer* at [Chargemap](https://fr.chargemap.com/) </samp>🚗⚡🔋
 </p>
-<hr>
 
 ### 💡 Current projects:
 
