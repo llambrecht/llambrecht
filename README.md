@@ -16,6 +16,7 @@
 
 
 <p align="center">
+
  <a href="https://www.linkedin.com/in/louis-lambrecht-19b24411a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="louislambrecht"/>
  </a>
@@ -30,10 +31,12 @@
 
 </p>
 
-I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward to contributing more to open source projects ☀️ 
+<p>
+<samp>
+I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward to contributing more to open source projects </samp>☀️ 
 
-I'm currently working as *Backend Developer* at [Chargemap](https://fr.chargemap.com/) 🚗⚡🔋
-
+<samp>I'm currently working as *Backend Developer* at [Chargemap](https://fr.chargemap.com/) </samp>🚗⚡🔋
+</p>
 <hr>
 
 ### 💡 Current projects:
@@ -42,4 +45,4 @@ I'm currently working as *Backend Developer* at [Chargemap](https://fr.chargemap
 [![Website Hider](https://img.shields.io/badge/-🚩&nbsp;&nbsp;Website&nbsp;Hider-000000?style=for-the-badge)](https://github.com/llambrecht/hide_websites_plugin)
 
 
-### Feel free to reach out for collaboration, questions, or just to say **hi**👋
+<samp> Feel free to reach out for collaboration, questions, or just to say hi </samp> 👋
