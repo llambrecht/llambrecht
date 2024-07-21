@@ -1,46 +1,45 @@
-## Hi, my name is Louis 👋
+## 
 
-I'm a developer from France 🇫🇷. I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward to contributing more to open source projects 👯.
 
-I'm currently working as a backend developer at [Chargemap](https://fr.chargemap.com/) 🚗⚡🔋
+<!-- Intro  -->
+<h3 align="center">
+        <samp>Hi, my name is Louis   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    「 I am a developer from 🇫🇷 <b>France</b> 」
+    <br>
+  </samp>
+</p>
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/louis-lambrecht-19b24411a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="louislambrecht"/>
+ </a>
+
+ <a href="https://www.instagram.com/lbt_louis.v/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="louislbtinstagram" />
+ </a> 
+
+<a href="mailto:lambrecht.louis@yahoo.fr">
+  <img src="https://img.shields.io/badge/Email-000001?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email lambrecht.louis@yahoo.fr"/>
+</a>
+
+</p>
+
+I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward to contributing more to open source projects ☀️ 
+
+I'm currently working as *Backend Developer* at [Chargemap](https://fr.chargemap.com/) 🚗⚡🔋
+
+<hr>
 
 ### 💡 Current projects:
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <div align="center">
-    <picture>
-      <img src="https://321vegan.fr/images/logo_no_text.png" width="50" height="50" alt="">
-    </picture>
-    <br>
-    <p>
-      <i>
-        <strong><a href="https://321vegan.fr" target="_blank">321 Vegan 🌱</a></strong><br>
-        A website to track your impact<br>
-        Project repository is not public yet<br>
-        <span style="color:grey"> (Laravel / Vue.js)</span>
-      </i>
-    </p>
-  </div>
-  <div align="center">
-    <picture>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2851/2851900-64.png?modified=3d4dbc75" width="50" height="50">
-    </picture>
-    <br>
-    <p>
-      <strong><a href="https://addons.mozilla.org/fr/firefox/addon/websites-hider/" target="_blank">Websites Hider</a></strong><br>
-      A Firefox addon to hide specific <br>websites from your search results.<br>
-      <span style="color:grey"> (JavaScript)</span><br>
-      <a href="https://github.com/llambrecht/hide_websites_plugin">➡ Go to repository</a>
-    </p>
-  </div>
-</div>
+
+[![321vegan.fr](https://img.shields.io/badge/-🌱&nbsp;&nbsp;321vegan.fr-000000?style=for-the-badge)](https://github.com/adamalston/v2)
+[![Website Hider](https://img.shields.io/badge/-🚩&nbsp;&nbsp;Website&nbsp;Hider-000000?style=for-the-badge)](https://github.com/llambrecht/hide_websites_plugin)
 
 
-
-### 📫 How to reach me:
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/louis-lambrecht-19b24411a/)
-    
-- Send me an email @ 📨 lambrecht.louis@yahoo.fr
-
-
-Feel free to reach out for collaboration, questions, or just to say **hi**👋
+### Feel free to reach out for collaboration, questions, or just to say **hi**👋
