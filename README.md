@@ -40,7 +40,7 @@ I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward
 
 ### 💡 Current projects:
 
-[![321vegan.fr](https://img.shields.io/badge/-🌱&nbsp;&nbsp;321vegan.fr-000000?style=for-the-badge)](https://github.com/adamalston/v2)
+[![321vegan.fr](https://img.shields.io/badge/-🌱&nbsp;&nbsp;321vegan.fr-000000?style=for-the-badge)](https://www.321vegan.fr)
 [![Website Hider](https://img.shields.io/badge/-🚩&nbsp;&nbsp;Website&nbsp;Hider-000000?style=for-the-badge)](https://github.com/llambrecht/hide_websites_plugin)
 
 
