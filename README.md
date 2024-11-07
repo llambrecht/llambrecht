@@ -51,7 +51,7 @@ I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward
     <td align="center" width="250px">
       <h4>321 Vegan</h4>
       <p>
-        An iOS and Android app to check if a product if vegan (additive searchs, barcode scans).
+        An iOS and Android app to check if a product is vegan (additive searchs, barcode scans).
       </p>
       <a href="https://linktr.ee/321vegan">
         <img src="https://img.shields.io/badge/View%20on%20Linktree-009879?style=for-the-badge&logo=linktree&logoColor=white" />
