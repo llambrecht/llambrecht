@@ -40,21 +40,12 @@ I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward
 <table>
   <tr>
     <td align="center" width="250px">
-      <h4>Website Hider</h4>
-      <p>
-        A plugin that allow users to hide specific websites (amazon, temu, aliexpress, etc...)
-      </p>
-      <a href="https://github.com/llambrecht/hide_websites_plugin">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="250px">
       <h4>321 Vegan</h4>
       <p>
         An iOS and Android app to check if a product is vegan (additive searchs, barcode scans).
       </p>
-      <a href="https://linktr.ee/321vegan">
-        <img src="https://img.shields.io/badge/View%20on%20Linktree-009879?style=for-the-badge&logo=linktree&logoColor=white" />
+      <a href="[https://linktr.ee/321vegan](https://github.com/llambrecht/321vegan-app)">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
