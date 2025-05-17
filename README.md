@@ -44,7 +44,7 @@ I'm working on a few projects, mostly in PHP and JavaScript. I'm looking forward
       <p>
         An iOS and Android app to check if a product is vegan (additive searchs, barcode scans).
       </p>
-      <a href="[https://linktr.ee/321vegan](https://github.com/llambrecht/321vegan-app)">
+      <a href="https://github.com/llambrecht/321vegan-app">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
