@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-    <samp>Hi, my name is Louis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <samp>Hi, my name is Camille <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </samp>
 </h3>
 
@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="louislbtinstagram" />
  </a> 
 
-<a href="mailto:lambrecht.louis@yahoo.fr">
-  <img src="https://img.shields.io/badge/Email-000001?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email lambrecht.louis@yahoo.fr"/>
+<a href="mailto:kmi@etik.com">
+  <img src="https://img.shields.io/badge/Email-000001?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email kmi@etik.com"/>
 </a>
 </p>
 
